@@ -7,7 +7,7 @@ printf("enter your marks : ");
 scanf("%d",&mark);
 
 if(mark<0||mark>100){
-    printf("enter a valid marks");
+    printf("enter a valid marks ");
 }
 else{
     if(mark>=90){
